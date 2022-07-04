@@ -1,4 +1,4 @@
 #!/usr/bin/bash
-a = 98
+b = 98
 """Simple variable
 """
